@@ -83,19 +83,6 @@ export default function Home() {
   </div>
 </div>
 
-<p className="text-black text-4xl font-bold p-8 mt-32">
-      El cambio climático a traves de los años
-    </p>
-
-
-
-<div className="flex w-full mt-6 p-16">
-
-  <img src="Lineadetiempo_.svg" alt="Linea de tiempo" className="w-1/2 h-auto" />
-  </div>
-
-
-
 <div className="flex flex-col items-center mt-32">
 
   <div className="w-full p-8">
@@ -190,6 +177,13 @@ export default function Home() {
   <p>El mapa muestra las 10 ciudades costeras del mundo más amenazadas por el aumento del nivel del mar.</p>
 </div>
 
+<p className="text-black text-4xl font-bold p-8 mt-32">
+      El cambio climático a traves de los años
+    </p>
+
+<div className="flex w-full mt-6 p-16">
+  <img src="Lineadetiempo_.svg" alt="Linea de tiempo" className="w-1/2 h-auto" />
+  </div>
 
 <div className="w-full mt-32">
         <p className="text-black text-5xl font-bold mt-32 p-8">
