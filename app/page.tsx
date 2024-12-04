@@ -78,10 +78,21 @@ export default function Home() {
   </p>
   </div>
 
-  <div className="w-screen flex justify-center mt-32">
+  <div className="w-screen flex justify-center mt-24">
     <img src="foto.jpg" alt="Planeta Tierra" className="w-screen h-auto" />
   </div>
 </div>
+
+<p className="text-black text-4xl font-bold p-8 mt-32">
+      El cambio climático a traves de los años
+    </p>
+
+
+
+<div className="flex w-full mt-6 p-16">
+
+  <img src="Lineadetiempo_.svg" alt="Linea de tiempo" className="w-1/2 h-auto" />
+  </div>
 
 
 
